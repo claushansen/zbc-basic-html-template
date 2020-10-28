@@ -57,6 +57,12 @@ body{
 
 #content{
     padding: 20px 10px 30px;
+    width: 66%;
+}
+
+#sidebar{
+    width: 33%;
+    padding: 10px;
 }
 
 #footer{
@@ -91,5 +97,7 @@ body{
 .pull-right{
     float: right;
 }
-
+.clear{
+    clear: both;
+}
 
